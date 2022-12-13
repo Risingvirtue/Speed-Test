@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Risingvirtue/Speed-Test#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.3"
   }
 }
